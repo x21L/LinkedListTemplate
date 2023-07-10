@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Test your implementation here.
+
+using LinkedListTemplate;
+
+MyLinkedList linkedList = new();
+
+/*
+foreach (var element in linkedList)
+{
+    your code here
+}
+ */
+Console.WriteLine("Test your linked list");
